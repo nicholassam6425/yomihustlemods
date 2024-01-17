@@ -1,0 +1,15 @@
+{
+	"friendly_name": "Protector",
+	"name": "arc_Protector",
+	"description": "Big guy with big shields.",
+	"version": "v0.0.1",
+	"author": "Arachneii",
+	"client_side": false,
+	"overwrites": false,
+	"requires": [
+		"char_loader"
+	],
+	"priority": 0,
+	"id": 12345,
+	"link": ""
+}
